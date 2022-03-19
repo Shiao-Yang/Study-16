@@ -1,2 +1,3 @@
 import os
-os.system('python function_20373830.py')
+os.system('python function_20372024.py')
+
